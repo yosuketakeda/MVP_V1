@@ -8,8 +8,11 @@ Not nest of comments, only single list.
 
 Stack : Node + Jade (View) + MySQL
 
-- Launch Project
+
+# Launch Project
+
 Install : npm install
+
 Run : npm start
 
 
